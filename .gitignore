@@ -1,0 +1,12 @@
+# Carpeta de compilación de Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Archivos de instalación y metadatos
+*.egg-info/
+build/
+dist/
+
+# Base de datos local (tus tareas privadas)
+task.json
