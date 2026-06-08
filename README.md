@@ -1,3 +1,6 @@
+
+Project based on: https://roadmap.sh/projects/task-tracker
+
 # Task Tracker CLI
 
 Una aplicación de línea de comandos (CLI) simple y eficiente para gestionar tus tareas diarias. Este proyecto permite crear, listar y actualizar tareas, manteniendo la persistencia de los datos en un archivo JSON local.
